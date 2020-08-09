@@ -1,2 +1,5 @@
 This file is concurrent remote branch new merge
 browser edit development branch
+
+This file is concurrent local branch
+browser edit development branch
